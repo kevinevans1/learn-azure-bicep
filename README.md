@@ -44,7 +44,7 @@ Welcome to the NETRUNNER collection of Bicep learning resources! Please feel fre
 
 ### Microsoft Bicep Official Repos
 - [Azure Bicep GitHub Repo](https://github.com/Azure/bicep)
-- [Azure Landing Zones (ALZ)Bicep Deployment](https://github.com/Azure/ALZ-Bicep)
+- [Azure Landing Zones (ALZ) Bicep Deployment](https://github.com/Azure/ALZ-Bicep)
 - [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
