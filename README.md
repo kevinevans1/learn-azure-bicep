@@ -57,7 +57,7 @@ Welcome to the NETRUNNER collection of Bicep learning resources! Please feel fre
 - [How To Use Azure Bicep For Developing ARM Templates (Azure Tips and Tricks)](https://www.youtube.com/watch?v=atWVFV7Y4vY)
 - [Learn Live - Introduction to IaC using Bicep](https://www.youtube.com/watch?v=MP60ND7Upn4)
 - [Azure Bicep March 2021: Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=l85qv_1N2_A)
-- [Building With Bicep] (https://mtt.eventbuilder.com/event/60562?source=MTTEUROPE)
+- [Building With Bicep](https://mtt.eventbuilder.com/event/60562?source=MTTEUROPE)
 
 ### Community Video Resources
 - [Understanding Project Bicep (John Savill's Technical Training)](https://www.youtube.com/watch?v=_yvb6NVx61Y)
