@@ -28,7 +28,7 @@ Welcome to the NETRUNNER collection of Bicep learning resources! Please feel fre
 
 ## MS Learn Bicep Learning Path
 
-[MS Learn Bicep Learning Path](https://aka.ms/learnbicep)
+- [MS Learn Bicep Learning Path](https://aka.ms/learnbicep)
 
 - [Part 1: Fundamentals of Bicep](https://docs.microsoft.com/en-us/learn/paths/fundamentals-bicep/)
 - [Part 2: Intermediate Bicep](https://docs.microsoft.com/en-us/learn/paths/intermediate-bicep/)
