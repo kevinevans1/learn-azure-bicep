@@ -64,6 +64,7 @@ Welcome to the NETRUNNER collection of Bicep learning resources! Please feel fre
 - [Azure Bicep Tutorial - Next Generation Of IaC (Freek Berson)](https://www.youtube.com/watch?v=Cvbr-pI6G0o)
 - [Getting Started With Azure Bicep (Ciraltos)](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [Getting Started With Bicep](https://www.youtube.com/watch?v=C-VAXvEFCkw)
+- [Bicep Introduction Series (Marcel Zehner)](https://www.youtube.com/playlist?list=PLMe6dpu8mADIrThzFA-WQwncXQ9BOzGVO)
 
 ### Community Books
 - [Getting started with Bicep: Infrastructure as code on Azure (Freek Berson)](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N/ref=sr_1_1?keywords=getting+started+with+azure+bicep&qid=1662088127&sr=8-1)
