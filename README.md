@@ -60,6 +60,7 @@ Welcome to the NETRUNNER collection of Bicep learning resources! Please feel fre
 - [Building With Bicep](https://mtt.eventbuilder.com/event/60562?source=MTTEUROPE)
 
 ### Community Video Resources
+- [Building Azure Using Bicep (StreamingCLouds)](https://www.youtube.com/watch?v=V9XBGXImiRU)
 - [Understanding Project Bicep (John Savill's Technical Training)](https://www.youtube.com/watch?v=_yvb6NVx61Y)
 - [Azure Bicep Tutorial - Next Generation Of IaC (Freek Berson)](https://www.youtube.com/watch?v=Cvbr-pI6G0o)
 - [Getting Started With Azure Bicep (Ciraltos)](https://www.youtube.com/watch?v=77AfsFzTsI4)
